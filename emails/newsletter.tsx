@@ -26,7 +26,7 @@ export const TangifyWelcomeEmail = () => (
           <div style={logoContainer}>
             <Img
               width={50}
-              src="logo.png" 
+              src="https://drive.google.com/uc?export=view&id=1EhUKYlBcKUkYSp7RO8omx-zZOsR3Rk9z" 
               alt="Tangify Logo"
             />
             <Text style={logoText}>Tangify</Text>
@@ -39,7 +39,7 @@ export const TangifyWelcomeEmail = () => (
               <Column style={introImageColumn}>
                 <Img
                   width={200}
-                  src="sleeping.png"
+                  src="https://drive.google.com/uc?export=view&id=17xm9KC05PxfMuPTC2HhDGuA7rmjTz3HX"
                   alt="Sleeping"
                 />
               </Column>
@@ -81,7 +81,7 @@ export const TangifyWelcomeEmail = () => (
               <Link href="https://www.linkedin.com/company/tangify">
                 <Img
                   width={30}
-                  src="linkedin-logo"
+                  src="https://drive.google.com/uc?export=view&id=1BSwNck7JhZAhHLYtRu8dzvEC0_HW3-pj"
                   alt="LinkedIn"
                 />
               </Link>
@@ -90,7 +90,7 @@ export const TangifyWelcomeEmail = () => (
               <Link href="https://x.com/tangifyapp">
                 <Img
                   width={30}
-                  src="x-logo"
+                  src="https://drive.google.com/uc?export=view&id=19kZBFbdTpLcZBAwEvDhAH5-SuttIFEXF"
                   alt="X-logo"
                 />
               </Link>
