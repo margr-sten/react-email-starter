@@ -9,7 +9,7 @@ const sendEmail = async (to: string, subject: string) => {
   // Render the email to static HTML
   const emailHtml = ReactDOMServer.renderToStaticMarkup(
     <Html>
-      <TangifyWelcomeEmail />
+      <index/>
     </Html>
   );
 
